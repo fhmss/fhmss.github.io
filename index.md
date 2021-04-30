@@ -13,3 +13,4 @@
 ### Blog
 
 - Writing [Blog](https://gitpress.io/u/1528) Irregularly via GitPress.
+
