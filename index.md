@@ -10,3 +10,6 @@
 
 - PhD in Mathematics (NagoyaU, Japan, 2010), under the supervision of Prof. Kanetomo Sato (currently at Chuo University)
 
+### Blog
+
+- Writing [Blog](https://gitpress.io/u/1528) Irregularly via GitPress.
