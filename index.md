@@ -5,7 +5,6 @@
 - is currently a working at [GSM](https://www.med.kyoto-u.ac.jp/en/) and [SACI](https://www.saci.kyoto-u.ac.jp/en/), KyotoU, Japan. 
 - is quite interested in finding principles or mechanisms of daynamics of humans and our society over years from deeper scientific layers. 
 - is also working on designs and implementations for cummunities and working regions based on their findings. 
-
 - is a professional member of [ACM](https://www.acm.org) (Association for Computing Machinery).
 
 ### History
