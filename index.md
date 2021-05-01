@@ -6,6 +6,8 @@
 - is quite interested in finding principles or mechanisms of daynamics of humans and our society over years from deeper scientific layers. 
 - is also working on designs and implementations for cummunities and working regions based on their findings. 
 
+- is a professional member of [ACM](https://www.acm.org) (Association for Computing Machinery).
+
 ### History
 
 - PhD in Mathematics (NagoyaU, Japan, 2010), under the supervision of Prof. Kanetomo Sato (currently at Chuo University)
@@ -13,4 +15,3 @@
 ### Blog
 
 - Writing [Blog](https://gitpress.io/u/1528) Irregularly via GitPress.
-
