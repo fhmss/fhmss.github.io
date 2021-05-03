@@ -13,8 +13,8 @@
 
 ### Professionals and Expertises
 
-- Professionals: mathematics, mathematical science, and engineering
-- Expertises: data science including machine learning and deep learning, organizational design, human-centered design, and ecological psychology
+- **Professionals**: mathematics, mathematical science, and engineering
+- **Expertises**: data science via machine learning and deep learning, organizational design, human-centered design, and ecological psychology
 
 
 ### Blog
