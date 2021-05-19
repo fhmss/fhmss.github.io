@@ -25,4 +25,3 @@
 
 ### Forecast 
 
-<iframe title="Example 6" height="380" src="https://widget.airnow.gov/aq-flag-widget/?z=27713&n=Durham,%20NC" style="background-color: white;" width="230"></iframe>
